@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# dokumentasi lokal (tidak ikut repo)
+PENJELASAN-KODE.md
